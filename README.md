@@ -77,11 +77,10 @@
 
 ---
 
-## 👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀
+👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀
 <p align="center">
-  <img src="https://count.getloli.com/get/@sayanpal514-hue?theme=rule34" />
+  <img src="https://komarev.com/ghpvc/?username=sayanpal514-hue&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
-
 ---
 
 <div align="center">
