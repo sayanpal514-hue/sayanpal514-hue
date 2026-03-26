@@ -58,9 +58,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayanpal514-hue&show_icons=true&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=sayanpal514-hue&theme=burnt-neon&border_radius=16.8&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=sayanpal514&theme=burnt-neon&border_radius=16.8" />
 </p>
 
 ---
