@@ -7,10 +7,10 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=sayanpal514-hue&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 ## 👋 𝗛𝗶, 𝗜'𝗺 𝗦𝗔𝗬𝗔𝗡 𝗣𝗔𝗟
-![Profile Views](https://komarev.com/ghpvc/?username=sayanpal514-hue&label=Profile%20views&color=0e75b6&style=flat)
 💻 **𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿**  
 🌱 **𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗥𝗲𝘃𝗲𝗿𝘀𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴**  
 📫 **𝗥𝗲𝗮𝗰𝗵 𝗠𝗲 𝗮𝘁:** [sayanpal514@gmail.com](mailto:sayanpal514@gmail.com)  
