@@ -59,8 +59,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayanpal514-hue&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://nirzak-streak-stats.vercel.app?user=sayanpal514-hue&theme=burnt-neon&border_radius=16.8&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" /> </a> </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanpal514-hue&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🧠 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗨𝘀𝗮𝗴𝗲
