@@ -56,7 +56,7 @@
 
 ## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayanpal514-hue&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayanpal514-hue&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
