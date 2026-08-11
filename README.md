@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:1a1a1a&height=230&section=header&text=SAYAN%20PAL&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Your%20Friendly%20Neighborhood%20Frontend%20Developer&descAlignY=60&descSize=16&descColor=ffcccc" />
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MCIgdmlld0JveD0iMCAwIDgwMCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBzdHJva2U9IiNEQzE0M0MiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC41Ij48bGluZSB4MT0iMCIgeTE9IjMwIiB4Mj0iODAwIiB5Mj0iMzAiLz48cGF0aCBkPSJNIDAgMzAgUSAxMDAgMTAsIDIwMCAzMCBUIDQwMCAzMCBUIDYwMCAzMCBUIDgwMCAzMCIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0gMCAzMCBRIDEwMCA1MCwgMjAwIDMwIFQgNDAwIDMwIFQgNjAwIDMwIFQgODAwIDMwIiBmaWxsPSJub25lIi8+PC9nPjwvc3ZnPg==" width="100%"/>
 </p>
 
 <p align="center">
