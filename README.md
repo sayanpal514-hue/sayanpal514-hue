@@ -1,6 +1,20 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&text=SAYAN%20PAL&fontSize=60&fontColor=63A4FF&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20Reverse%20Engineering&descAlignY=58&descSize=16&descColor=aaaaff" />
-</p>
+**I'm always open to collaborating on exciting projects!**
+
+<a href="https://github.com/sayanpal514-hue">
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github" />
+</a>
+<a href="https://x.com/imVKohli970">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sayan-pal-8092a8330">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:sayanpal514@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+**Portfolio:** [Sayan Pal](https://sayanpal.pages.dev/)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=63A4FF&center=true&vCenter=true&width=600&height=100&lines=root%40sayan%3A~%24+whoami;%3E+Frontend+Developer;root%40sayan%3A~%24+cat+currently_learning.txt;%3E+Backend+%2B+Reverse+Engineering;root%40sayan%3A~%24+echo+%22Let's+build+something+cool%22" alt="Terminal Typing SVG" />
