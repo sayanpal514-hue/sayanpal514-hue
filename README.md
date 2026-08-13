@@ -1,32 +1,41 @@
-**I'm always open to collaborating on exciting projects!**
+<h1 align="center">Hi 👋, I'm Sayan Pal</h1>
+<h3 align="center">Frontend Developer | Learning Backend & Reverse Engineering</h3>
 
-<a href="https://github.com/sayanpal514-hue">
-  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github" />
-</a>
-<a href="https://x.com/imVKohli970">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/sayan-pal-8092a8330">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:sayanpal514@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=63A4FF&center=true&vCenter=true&width=600&height=100&lines=root%40sayan%3A~%24+whoami;%3E+Frontend+Developer;root%40sayan%3A~%24+cat+currently_learning.txt;%3E+Backend+%2B+Reverse+Engineering" alt="Terminal Typing SVG" />
+</p>
 
-**Portfolio:** [Sayan Pal](https://sayanpal.pages.dev/)
+<p align="center">
+  <a href="https://github.com/sayanpal514-hue">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://x.com/imVKohli970">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayan-pal-8092a8330">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sayanpal514@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-
+<p align="center">
+  <b>Portfolio:</b> <a href="https://sayanpal.pages.dev/">sayanpal.pages.dev</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayanpal514-hue&label=PROFILE+VIEWS&color=63A4FF&style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-BUILDING-0e75b6?style=for-the-badge" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
+</p>
 
 ---
 
-## ⚡ ABOUT
+## ⚡ About
 
 ```yaml
 name: Sayan Pal
@@ -37,11 +46,9 @@ portfolio: sayanpal.pages.dev
 mindset: build → break → understand → rebuild
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"/>
-
 ---
 
-## 🧬 WHAT I'M UP TO
+## 🧬 What I'm Up To
 
 <table align="center">
 <tr>
@@ -66,13 +73,9 @@ mindset: build → break → understand → rebuild
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221857984-99edc0c3-2c19-4e10-8cd5-19dbf28f6ecd.gif" width="70%">
-</p>
-
 ---
 
-## 🧠 TECH STACK
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,django,mysql,mongodb,git,github,linux,vscode&theme=dark&perline=7" />
@@ -82,20 +85,20 @@ mindset: build → break → understand → rebuild
 <summary>📈 <b>Skill confidence (click to expand)</b></summary>
 <br>
 
-`React.js      ` ████████████████░░░░ 80%
-`Tailwind CSS  ` ██████████████████░░ 90%
-`JavaScript    ` ████████████████░░░░ 80%
-`Node.js       ` ██████████░░░░░░░░░░ 50%
-`Python/Django ` ████████░░░░░░░░░░░░ 40%
-`Reverse Eng.  ` █████░░░░░░░░░░░░░░░ 25%
+```
+React.js       ████████████████░░░░ 80%
+Tailwind CSS   ██████████████████░░ 90%
+JavaScript     ████████████████░░░░ 80%
+Node.js        ██████████░░░░░░░░░░ 50%
+Python/Django  ████████░░░░░░░░░░░░ 40%
+Reverse Eng.   █████░░░░░░░░░░░░░░░ 25%
+```
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
 ---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayanpal514-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63A4FF&icon_color=63A4FF" width="48%"/>
@@ -113,7 +116,7 @@ mindset: build → break → understand → rebuild
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -121,7 +124,7 @@ mindset: build → break → understand → rebuild
 
 ---
 
-## 📡 LET'S CONNECT
+## 📡 Let's Connect
 
 <p align="center">
   <a href="mailto:sayanpal514@gmail.com">
