@@ -16,9 +16,6 @@
 **Portfolio:** [Sayan Pal](https://sayanpal.pages.dev/)
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=63A4FF&center=true&vCenter=true&width=600&height=100&lines=root%40sayan%3A~%24+whoami;%3E+Frontend+Developer;root%40sayan%3A~%24+cat+currently_learning.txt;%3E+Backend+%2B+Reverse+Engineering;root%40sayan%3A~%24+echo+%22Let's+build+something+cool%22" alt="Terminal Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayanpal514-hue&label=PROFILE+VIEWS&color=63A4FF&style=for-the-badge" />
