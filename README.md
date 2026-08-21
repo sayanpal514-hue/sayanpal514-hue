@@ -20,9 +20,9 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Portfolio:</b> <a href="https://sayanpal.pages.dev/">sayanpal.pages.dev</a>
-</p>
+  <a href="https://sayanpal.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayanpal514-hue&label=PROFILE+VIEWS&color=63A4FF&style=for-the-badge" />
