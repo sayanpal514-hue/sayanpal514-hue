@@ -12,6 +12,9 @@
   <a href="https://x.com/imVKohli970">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+   <a href="https://sayanpal.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/sayan-pal-8092a8330">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -20,9 +23,7 @@
   </a>
 </p>
 
-  <a href="https://sayanpal.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayanpal514-hue&label=PROFILE+VIEWS&color=63A4FF&style=for-the-badge" />
