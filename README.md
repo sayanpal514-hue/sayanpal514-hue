@@ -2,7 +2,7 @@
 <h3 align="center">Developer | Learning Reverse Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=63A4FF&center=true&vCenter=true&width=600&height=100&lines=root%40sayan%3A~%24+whoami;%3E+Frontend+Developer;root%40sayan%3A~%24+cat+currently_learning.txt;%3E+Backend+%2B+Reverse+Engineering" alt="Terminal Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=63A4FF&center=true&vCenter=true&width=600&height=100&lines=root%40sayan%3A~%24+whoami;%3E+Developer;root%40sayan%3A~%24+cat+currently_learning.txt;%3E+Backend+%2B+Reverse+Engineering" alt="Terminal Typing SVG" />
 </p>
 
 <p align="center">
